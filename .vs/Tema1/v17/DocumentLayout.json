@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\",
+  "WorkspaceRootPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD079C6F-3802-4B42-9A3B-B5E7AA603C54}|Database\\Database.csproj|d:\\facultate\\anul ii\\semestrul ii\\.net\\tema gata de tot\\tema1\\tema1\\tema1\\database\\migrations\\20240417053932_tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD079C6F-3802-4B42-9A3B-B5E7AA603C54}|Database\\Database.csproj|solutionrelative:database\\migrations\\20240417053932_tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C132DEB-2D13-467E-81A1-8B24E742CBED}|Tema1\\Tema1.csproj|d:\\facultate\\anul ii\\semestrul ii\\.net\\tema\\api\\tema1\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C132DEB-2D13-467E-81A1-8B24E742CBED}|Tema1\\Tema1.csproj|solutionrelative:tema1\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9944C4-F390-46A8-A18C-80686BAABD27}|Core\\Core.csproj|d:\\facultate\\anul ii\\semestrul ii\\.net\\tema gata de tot\\tema1\\tema1\\tema1\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B9944C4-F390-46A8-A18C-80686BAABD27}|Core\\Core.csproj|solutionrelative:core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B9944C4-F390-46A8-A18C-80686BAABD27}|Core\\Core.csproj|d:\\facultate\\anul ii\\semestrul ii\\.net\\tema\\api\\core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9944C4-F390-46A8-A18C-80686BAABD27}|Core\\Core.csproj|solutionrelative:core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C132DEB-2D13-467E-81A1-8B24E742CBED}|Tema1\\Tema1.csproj|d:\\facultate\\anul ii\\semestrul ii\\.net\\tema\\api\\tema1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C132DEB-2D13-467E-81A1-8B24E742CBED}|Tema1\\Tema1.csproj|solutionrelative:tema1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C132DEB-2D13-467E-81A1-8B24E742CBED}|Tema1\\Tema1.csproj|d:\\facultate\\anul ii\\semestrul ii\\.net\\tema\\api\\tema1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C132DEB-2D13-467E-81A1-8B24E742CBED}|Tema1\\Tema1.csproj|solutionrelative:tema1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9944C4-F390-46A8-A18C-80686BAABD27}|Core\\Core.csproj|d:\\facultate\\anul ii\\semestrul ii\\.net\\tema\\api\\core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9944C4-F390-46A8-A18C-80686BAABD27}|Core\\Core.csproj|solutionrelative:core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9944C4-F390-46A8-A18C-80686BAABD27}|Core\\Core.csproj|d:\\facultate\\anul ii\\semestrul ii\\.net\\tema\\api\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9944C4-F390-46A8-A18C-80686BAABD27}|Core\\Core.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,38 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\Program.cs",
+              "RelativeDocumentMoniker": "Tema1\\Program.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\Program.cs",
+              "RelativeToolTip": "Tema1\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwA4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T11:47:47.712Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-25T14:39:52.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240417053932_Tema.cs",
-              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\Migrations\\20240417053932_Tema.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\20240417053932_Tema.cs",
-              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\Migrations\\20240417053932_Tema.cs",
-              "RelativeToolTip": "Database\\Migrations\\20240417053932_Tema.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "Tema1\\Controllers\\ArtistsController.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "Tema1\\Controllers\\ArtistsController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T18:25:41.974Z",
+              "WhenOpened": "2024-05-25T14:29:47.885Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\AuthService.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Services\\AuthService.cs",
+              "RelativeToolTip": "Core\\Services\\AuthService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:15:02.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\appsettings.json",
+              "RelativeDocumentMoniker": "Tema1\\appsettings.json",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\appsettings.json",
+              "RelativeToolTip": "Tema1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T14:25:34.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Role.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Entities\\Role.cs",
+              "RelativeToolTip": "Core\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:14:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\User.cs",
+              "ToolTip": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:33:00.577Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -64,6 +131,16 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }

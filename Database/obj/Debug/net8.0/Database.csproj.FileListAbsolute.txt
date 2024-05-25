@@ -49,3 +49,21 @@ D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\refint\Database.dll
 D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.pdb
 D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
 D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\ref\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Database.deps.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Database.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.sourcelink.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\refint\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\ref\Database.dll

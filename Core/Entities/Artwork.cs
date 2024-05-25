@@ -2,7 +2,7 @@
 
 using System.Text.Json.Serialization;
 
-namespace Core
+namespace Core.Entities
 {
     public class Artwork
     {
@@ -10,7 +10,7 @@ namespace Core
         public string Title { get; set; }
         public int Year { get; set; }
 
-        public int ArtistId {  get; set; }
+        public int ArtistId { get; set; }
 
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Tema1\\Tema1.csproj": {}
+    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\Tema1.csproj": {}
   },
   "projects": {
-    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj": {
+    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj",
+        "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Miruna\\.nuget\\packages\\",
-        "outputPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\obj\\",
+        "outputPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miruna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\Database.csproj": {
+    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\Database.csproj",
+        "projectUniqueName": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\Database.csproj",
+        "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Database\\Database.csproj",
         "packagesPath": "C:\\Users\\Miruna\\.nuget\\packages\\",
-        "outputPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\obj\\",
+        "outputPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miruna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,8 +110,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj": {
-                "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj"
+              "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj": {
+                "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Tema1\\Tema1.csproj": {
+    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\Tema1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Tema1\\Tema1.csproj",
+        "projectUniqueName": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\Tema1.csproj",
         "projectName": "Tema1",
-        "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Tema1\\Tema1.csproj",
+        "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\Tema1.csproj",
         "packagesPath": "C:\\Users\\Miruna\\.nuget\\packages\\",
-        "outputPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Tema1\\obj\\",
+        "outputPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Tema1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miruna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -196,11 +196,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj": {
-                "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj"
+              "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj": {
+                "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj"
               },
-              "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\Database.csproj": {
-                "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\Database.csproj"
+              "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Database\\Database.csproj": {
+                "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Database\\Database.csproj"
               }
             }
           }
@@ -220,6 +220,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.4, )"
@@ -242,7 +246,11 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.2, )"
             }
           },
           "imports": [

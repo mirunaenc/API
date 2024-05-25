@@ -1,6 +1,4 @@
-﻿
-
-namespace Core
+﻿namespace Core.Entities
 {
     public class Artist
     {
