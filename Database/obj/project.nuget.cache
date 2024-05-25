@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlQrwHCyc2vBOn2DH5n9JhHQ0ncDBxLyBlhq9vb8CFXqGzX5fmulZ2XO+TFP5D/Z5+96bLCFG5FT7TLCmod0LQ==",
+  "dgSpecHash": "KorjRNBjFvGgcixImsM3WwKSRVdyi4FmiDOjo5oyR6mYQmfx/WSj37n4YYBdk7WrCDjMF3qD5vT37J+EZT1MBw==",
   "success": true,
-  "projectFilePath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Database\\Database.csproj",
+  "projectFilePath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Database\\Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miruna\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Miruna\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

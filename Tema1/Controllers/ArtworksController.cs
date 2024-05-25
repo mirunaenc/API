@@ -1,6 +1,7 @@
 ﻿using Core.Interfaces;
-using Core;
 using Microsoft.AspNetCore.Mvc;
+using Core.Entities;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Tema1.Controllers
 {
@@ -16,6 +17,7 @@ namespace Tema1.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Get()
         {
             var artworks = await _repository.GetAllAsync();
@@ -23,6 +25,7 @@ namespace Tema1.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetById(int id)
         {
             var artwork = await _repository.GetByIdAsync(id);

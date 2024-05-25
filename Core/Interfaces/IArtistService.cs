@@ -1,5 +1,7 @@
 ﻿
 
+using Core.Entities;
+
 namespace Core.Interfaces
 {
     public interface IArtistService<T> where T : class

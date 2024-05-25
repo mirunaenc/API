@@ -1,11 +1,14 @@
-﻿using Core;
+﻿using Core.Entities;
 using Core.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace Tema1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ArtistsController : ControllerBase
     {
         private readonly IRepository<Artist> _repository;
@@ -16,6 +19,7 @@ namespace Tema1.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Get()
         {
             var artists = await _repository.GetAllAsync();
@@ -64,6 +68,8 @@ namespace Tema1.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize(Roles = "admin")]
+
         public async Task<IActionResult> Delete(int id)
         {
             var artist = await _repository.GetByIdAsync(id);

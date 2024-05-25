@@ -54,3 +54,18 @@ D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\refint\Core.dll
 D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.pdb
 D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
 D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\ref\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\bin\Debug\net8.0\Core.deps.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\bin\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\bin\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\refint\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\ref\Core.dll

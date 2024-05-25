@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj": {}
+    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj": {
+    "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\Core.csproj",
+        "projectPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Miruna\\.nuget\\packages\\",
-        "outputPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema gata de tot\\Tema1\\Tema1\\Tema1\\Core\\obj\\",
+        "outputPath": "D:\\FACULTATE\\Anul II\\Semestrul II\\.NET\\Tema\\API\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miruna\\AppData\\Roaming\\NuGet\\NuGet.Config",
